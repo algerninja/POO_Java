@@ -1,0 +1,6 @@
+Cuando cree la base de datos pongale el siguiente nombre "bd_trabajo"
+
+luego importe el archivo contactos.sql
+
+Isaias pinto
+29671221
